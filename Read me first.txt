@@ -1,0 +1,49 @@
+Instructions;
+
+Software needed;
+
+Install Xampp on your PC.
+Install Sublime Text editor.
+
+Steps to follow;
+
+1- after installing Xampp copy this project folder into 'htdocs' folder of xampp in C.
+2- Open Xampp control panel and start Apache and Mysql service.
+3- Open Chrome and type http://localhost/phpmyadmin/ 
+4- Create new database with name 'shopping'
+5- Import 'shopping.sql' file present in project folder
+6- After successful import open chrome and write 'http://localhost/Shopping-Website-master/index.php' site will open.
+7- For admin panel Write on chrome 'http://localhost/Shopping-Website-master/admin/index.php'
+
+8- Username for admin is 'admin'
+9- password for admin is 'adnan123'
+
+project module;
+
+=================Admin=========================;
+
+can upadate thier username and password.
+can manage daily orders and take action to change status.
+can check pending orders.
+can make, update and delete new catagories and subcatagories.
+can add, update and delete product.
+can add,update and delet images of product.
+can manage users and check their history.
+can easily logout.
+
+====================User=====================;
+
+can make its account by registration.
+can sign in to its account.
+can change its password by click forget password.
+can manage it's cart items.
+can make it's wishlist.
+can give riveiws to the product.
+can check the product details.
+can change the quantity of ordered product.
+can do checkout for its products.
+can update it's billing and shipping address.
+can search it's product on website
+can track order 
+
+ 
